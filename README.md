@@ -1,6 +1,6 @@
 ### Hi There 
 
-<img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmk.prestasiprima.sch.id%2Fkegiatan%2F&psig=AOvVaw0MAYwwqlAJF67SdTrb7C9i&ust=1694261256796000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiK8KH9moEDFQAAAAAdAAAAABAE" alt="">
+<img src= "https://www.google.com/url?sa=iurl=https%3A%2F%2Fsmk.prestasiprima.sch.id%2Fkegiatan%2Fpsig=AOvVaw0MAYwwqlAJF67SdTrb7C9iust=1694261256796000source=imagescd=vfeopi=89978449ved=0CBAQjRxqFwoTCNiK8KH9moEDFQAAAAAdAAAAABAE" alt="">
 Halo, saya Abel! dan saya adalah siswi jurusan Rekayasa Perangkat Lunak (RPL). Saya sangat tertarik dalam dunia teknologi dan pemrograman.
 Selama belajar di jurusan RPL, saya telah mempelajari berbagai bahasa pemrograman seperti Python, Java, dan C++.
 
@@ -10,9 +10,6 @@ Di luar dunia IT, saya juga memiliki minat lain seperti meononton Film. Saya sen
 
 Terima kasih telah mendengarkan perkenalan singkat saya, dan saya berharap bisa berkenalan dengan kalian semua lebih baik!
 
-
-## Find me around the web 🌎:
-- Pelajar di <a href="https://smkprestasiprima.sch.id/">SMK PRESTASI PRIMA</a>✍🏾
 
 
 <!--
